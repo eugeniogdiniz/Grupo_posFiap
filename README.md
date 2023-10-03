@@ -18,3 +18,14 @@ O Head de Dados pediu para que você construísse uma tabela contendo as seguint
 Os dados que lhe forneceram são de uma vinícola parceira, e podem ser encontrados 
 
 http://vitibrasil.cnpuv.embrapa.br/index.php?opcao=opt_01
+
+## Passos para o tratamento dos dados
+
+    1) Na tabela produção é possivel avaliar os vinhos pelo Vinho de Mesa e o Vinífera, além de sucos e derivados. O unico meio de analisar vinho produzido com o processado é separando em Vinho de Mesa e Vinífera, e separar por "Tinto" e "Branco e Rosado".
+        1.1) O vinho processado Americanas e Hibridas é necessário avaliar ele em um conjunto a parte
+    2) Analistar a exportação e importação de vinhos pode ser feito em seu total, assim como pode ser visto mais a fundo pela classificação de vinho de mesa
+    3) Talvez seja interessante ver outras formas de classificar os tipos de vinho.
+
+
+
+
